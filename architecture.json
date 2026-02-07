@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_pastoral_individual_collective",
+  "title": "The Covenant of Glen Cùil",
+  "tagline": "When a corporate vision of progress threatens a centuries-old way of life, one shepherd must decide what to preserve and what to surrender.",
+  "target_words": 70000,
+  "actual_words": 69092,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tension Between Stewardship and Ownership",
+    "Progress as a Threat to Continuity",
+    "The Body as a Map of Labor",
+    "Silence as a Language of Kinship"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ewe on Her Back",
+      "words": 2879
+    },
+    {
+      "ch": 2,
+      "title": "The Man from Cairn Solutions",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Weight of the Tenancy",
+      "words": 2850
+    },
+    {
+      "ch": 4,
+      "title": "Eilidh's Spreadsheets",
+      "words": 2880
+    },
+    {
+      "ch": 5,
+      "title": "The Memory in the Peat",
+      "words": 2875
+    },
+    {
+      "ch": 6,
+      "title": "A Gathering at the Auction",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "The First Offer",
+      "words": 2850
+    },
+    {
+      "ch": 8,
+      "title": "Morag's Ledger",
+      "words": 2880
+    },
+    {
+      "ch": 9,
+      "title": "The Broken Fence",
+      "words": 2870
+    },
+    {
+      "ch": 10,
+      "title": "A Call from Inverness",
+      "words": 2860
+    },
+    {
+      "ch": 11,
+      "title": "The Community Council",
+      "words": 2920
+    },
+    {
+      "ch": 12,
+      "title": "Divided Loyalties",
+      "words": 2880
+    },
+    {
+      "ch": 13,
+      "title": "The Storm",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "Losses Counted",
+      "words": 2875
+    },
+    {
+      "ch": 15,
+      "title": "Thornbridge's Revised Proposal",
+      "words": 2890
+    },
+    {
+      "ch": 16,
+      "title": "Eilidh's Choice",
+      "words": 2880
+    },
+    {
+      "ch": 17,
+      "title": "Finlay Alone on the Hill",
+      "words": 2860
+    },
+    {
+      "ch": 18,
+      "title": "The Old Path",
+      "words": 2870
+    },
+    {
+      "ch": 19,
+      "title": "A Discovery in the Bothy",
+      "words": 2890
+    },
+    {
+      "ch": 20,
+      "title": "Confrontation at the Loch",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Vote",
+      "words": 2880
+    },
+    {
+      "ch": 22,
+      "title": "What is Owed",
+      "words": 2870
+    },
+    {
+      "ch": 23,
+      "title": "The Kindling",
+      "words": 2860
+    },
+    {
+      "ch": 24,
+      "title": "The Bridge",
+      "words": 2882
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers an old object buried on the land (a tool, a letter, a child's toy) that changes their understanding of its history.",
+      "Draft a community meeting where a proposal for 'efficiency' or 'renewal' divides neighbors who have known each other for generations.",
+      "Create a monologue from Morag's perspective, detailing the unaccounted, invisible labor that holds the farm—and the family—together.",
+      "Imagine a follow-up chapter set five years after the novel's end, from Eilidh's point of view, describing what has changed and what has endured."
+    ],
+    "technical": [
+      "Build an interactive map of Glen Cùil, tagging locations with audio clips of Finlay's memories or ecological data about the land.",
+      "Create a 'Conflict Simulator' for the central dilemma, where a user adjusts sliders for 'Tradition,' 'Economics,' 'Community,' and 'Environment' to generate different story outcomes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John Clare",
+      "Nan Shepherd",
+      "Robert Burns",
+      "Jane Jacobs"
+    ]
+  },
+  "cover_prompt": "A weathered Scottish shepherd stands at a cliff's edge, his worn hands resting on his crook as he gazes down upon the ancient, mist-shrouded valley of Glen Cùil, where the geometric scars of new forestry and survey markers encroach upon the timeless patchwork of heather and stone-walled fields, his loyal border collie a silent sentinel at his feet, the very landscape a contested covenant between past and future, in the atmospheric style of a synthesis between the luminous, textured realism of Andrew Wyeth and the haunting, soulful landscapes of James Morrison, book cover framing, centered and intimate portrait of the shepherd against the vast, epic landscape, shot from a low angle to emphasize his contemplative solitude and the monumental scale of the decision before him, dramatic chiaroscuro lighting where a beam of cold, clear northern light pierces the brooding storm clouds to illuminate the shepherd's face and the untouched glen, while the corporate incursions remain in ominous shadow, color palette of deep peat browns, heather purples, mossy greens, and slate grays contrasted against the stark, unnatural orange of surveyor's tape and pale wood scars, masterpiece, best quality, ultra detailed, intricate details of the shepherd's woolen tweed, the dog's intelligent eyes, and the lichen-crusted stones, professional composition, sharp focus, 8k resolution, flux dev."
+}
