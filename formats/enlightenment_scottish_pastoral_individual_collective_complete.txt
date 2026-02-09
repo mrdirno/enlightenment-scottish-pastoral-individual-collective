@@ -1,4 +1,6 @@
- Chapter 1
+Chapter 1
+
+Chapter 1
 
 The ewe was dying on her back, a great woolly beetle helpless in the dew-drenched grass of the high field. Her legs paddled the cold air, a slow, desperate rhythm against the dawn. Finlay Munro saw her from two hundred yards off, a white blotch gone wrong against the green, and he broke into a run, the old dog, Tam, flowing ahead of him like grey smoke.
 
@@ -130,7 +132,9 @@ He spat on the ground, a brief, sharp punctuation. Then he went back to mucking 
 
 ---
 
- Chapter 2
+Chapter 2
+
+Chapter 2
 
 The stone of the kirkyard wall was sun-warmed against Finlay’s back. It was Sunday afternoon, the Sabbath work of morning chores done, the secular quiet of the day settling in. He sat with his eyes closed, face turned to the light, listening to the gossip of starlings in the yew tree and the distant, rhythmic thock of axe on wood from behind the house. Calum, his younger brother, was splitting logs. The sound was a heartbeat.
 
@@ -248,7 +252,9 @@ He closed his eyes. In the theatre of his mind, he saw the grey car, moving sile
 
 ---
 
- Chapter 3
+Chapter 3
+
+Chapter 3
 
 The village hall smelled of floor polish, damp wool, and decades of weak tea. Folding chairs were set in uneven rows, facing a trestle table where three men sat: the community council chairman, old Mr. Ferguson, who was mostly deaf; Alastair Grant, looking uncharacteristically solemn in a checked shirt; and David Thornbridge, in a soft charcoal sweater, his tablet glowing before him like a secular altar.
 
@@ -332,11 +338,13 @@ He looked at her, at the fierce, frightened young woman in the dim light from th
 
 He had no answer. So he turned and walked away, towards the truck, leaving her standing alone in the dark. The collective, he thought, doesn’t come for you with a sword. It comes with a question your own child asks you, and the terrible silence that follows when you realise you’ve spent a lifetime building a wall, and called it a home, and never once built a gate.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- Chapter 4
+Chapter 4
 
 The city was a different kind of hill, all hard angles and sour breath. Leo felt its gradient in the ache behind his eyes, a pressure that had nothing to do with altitude and everything to do with the sheer weight of people living on top of each other. He followed Maya through a canyon of stained brick and echoing pavements, the locket a cold, persistent tooth against his chest. It had been quiet since the churchyard. Now, in the close urban dark, he felt it humming, a sub-audible thrum that vibrated in his molars.
 
@@ -470,11 +478,13 @@ He knew the answer. He had known it the moment he saw the riverstone through the
 
 The collective was coming for him, with its gentle, silencing hands. But he was no longer just an individual anomaly. He was a question, walking. And he was headed for the only place that might hold an answer. The song was a thread, pulling him home. All he had to do was follow it, and outrun the scissors closing at his back.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- Chapter 5
+Chapter 5
 
 The world was a wound, and the Wardens were the needle. They came in silence, a black suture stitching through the warehouse district. Leo saw them first as a flicker of disciplined shadow against the sodium-glow bleeding from the arterial road. They moved with a terrible unison, a single organism flowing around corners, over fences, sealing the perimeter with a quiet, surgical finality.
 
@@ -618,11 +628,13 @@ The Collective had found him. Or something very much like it.
 
 He stood, his back against the cold, wet wall, the locket pulsing its secret song against his palm. He had outrun the scissors from his own world, only to find himself in the gentle, inescapable hands of another. The thread was still there. But now, it was wrapped around his wrist, and someone else was holding the end.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- Chapter 6
+Chapter 6
 
 The scavengers were gone, but the silence they left behind was worse. It was a held breath, a vacuum waiting to be filled. The woman—Kaelen—stood between the rusted pipework, her grey form a blade-cut in the gloom. She watched him, the way a surgeon watches a chart. The blue tip of her device dimmed to a sullen ember, but she did not lower it.
 
@@ -685,8 +697,7 @@ For a second, he thought she would raise the device, that the harmonic buzz woul
 Then she stepped back, melting into a deeper pool of shadow between two massive, silent pipes. One moment she was there, a grey sentinel. The next, she was gone, leaving only the smell of ozone and a fading sense of pressure in the air.
 
 Kael let out a long, slow breath. “Well. That was bracing.” He slapped the wrench against his palm. “Come on, then. Relic. Before she changes her mind and decides to tidy up the whole block.”
-
-He moved through the under-city like a fish through a familiar reef. Leo followed, a clumsy shadow, his lungs burning with the effort to keep pace. They did not climb towards the distant glow, but descended, taking narrow service ramps and crossing gantries that groaned under their weight. The air grew thicker, warmer, smelling of hot metal, ozone, and the pervasive, sweet-rot scent of organic recycling vats.
+  - He moved through the under-city like a fish through a familiar reef. Leo followed, a clumsy shadow, his lungs burning with the effort to keep pace. They did not climb towards the distant glow, but descended, taking narrow service ramps and crossing gantries that groaned under their weight. The air grew thicker, warmer, smelling of hot metal, ozone, and the pervasive, sweet-rot scent of organic recycling vats.
 
 Kael spoke without turning. “The Cadre are the Wardens of this world. Harmony. Order. The great, beautiful balance.” He said it like it was a curse. “They listen for ripples. You, my friend, are a cannonball splash in a quiet pond. That little trinket you’re clutching?” He glanced back, his eyes sharp. “It’s the pebble that started the tidal wave. They want it. And you, by extension.”
 
@@ -755,8 +766,7 @@ Zara was already rummaging in a crate. She pulled out a slender, flexible band o
 Leo fastened it around his left wrist. The effect was immediate and disorienting. The hum of the market dulled. The persistent, sub-audible song of the locket faded to a faint tremor. His own thoughts seemed slower, thicker. He felt wrapped in gauze.
 
 “Good,” Kael said. “Now you’re just a strangely-dressed man, not a screaming alarm bell. Let’s get some food. History lessons are better on a full stomach.”
-
-They sat on upturned crates in a quieter corner of the market, eating a sticky, protein-rich paste from folded leaves. Kael talked between mouthfuls.
+  - They sat on upturned crates in a quieter corner of the market, eating a sticky, protein-rich paste from folded leaves. Kael talked between mouthfuls.
 
 “The Cadre isn’t just here. The idea of them, the function of them, exists across many of the singing realms. Wardens. Curators. They believe in the separation. That the great song of each world must remain pure, or the whole symphony falls into noise. They police the borders. They snip threads, like you said.”
 
@@ -828,11 +838,13 @@ But Kael had come back. He had sacrificed his prize to draw the hunter’s fire.
 
 The thread was still there. But now, it was not just wrapped around his own wrist. It was looped around another’s, a man standing in the shadows, holding the other end not to pull him in, but to pull him through. They were two points of discord in a world that demanded a perfect, silent song. And they were moving, together, into a deeper dark.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- Chapter 7
+Chapter 7
 
 The locket was a second heart, beating against his ribs. It was not the frantic hammer of fear, but a deep, slow thrum that seemed to pull at the marrow of his bones. Leo kept his hand pressed over it, feeling the warmth bleed through his shirt, through the dampener’s cold band. It was a compass needle, and it pointed down.
 
@@ -925,8 +937,7 @@ Leo’s head swam. The vibration was inside his skull. He stumbled towards the d
 Leo sat.
 
 The world dissolved.
-
-He is not himself. He is a point of view, a consciousness floating in a sea of brilliant, unified light. It is a song of perfect harmony, a single, glorious note holding everything—every possibility, every star, every thought—in its embrace. It is home. It is the Source.
+  - He is not himself. He is a point of view, a consciousness floating in a sea of brilliant, unified light. It is a song of perfect harmony, a single, glorious note holding everything—every possibility, every star, every thought—in its embrace. It is home. It is the Source.
 
 Then, a discord. A thought that is not harmony. A question. What if variation? What if choice? What if not one note, but a symphony?
 
@@ -940,9 +951,8 @@ And then, a remedy. A final, collaborative act before the schism becomes absolut
 
 The vision fractures. He sees the Guides being scattered, hidden across the branching worlds. He sees the Makers themselves departing, fading, becoming myth. He sees the Cadre rise in a later age, finding the World Keys—pale, functional copies of the Guides—and misunderstanding their purpose entirely. They see the branching as the natural state. They see the Guides as a threat to their ordered, silent song. They build the Wardens not to protect worlds, but to preserve the silence between them. To stamp out the resonance.
 
-The locket in his vision—his locket—glows. It is not a Key. It is a Lure.
-
-Leo gasped, jerking forward as if breaking the surface of deep water. He was on his knees on the cold glass floor, having fallen from the chair. The crystal seat was dark, inert. The moving lights on the walls still played their silent, tragic film.
+The locket in his vision—his locket—glows. It is not a Key. It is a Lure.*
+  - Leo gasped, jerking forward as if breaking the surface of deep water. He was on his knees on the cold glass floor, having fallen from the chair. The crystal seat was dark, inert. The moving lights on the walls still played their silent, tragic film.
 
 Kael was beside him, a hand on his shoulder, his face etched with concern and a sharp, hungry curiosity. “What happened? You were gone. For ten minutes, you were just… gone. Staring into nothing.”
 
@@ -988,11 +998,13 @@ And they ran, plunging into the dark of the side passage as the circle of sentin
 
 Then the darkness swallowed them, and the only sound was the hammer of their own hearts and the soft, relentless whisper of pursuit at their backs.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- Chapter 8
+Chapter 8
 
 The dark was a throat. It swallowed their footfalls, their ragged breath, the blue-white terror snapping at their heels. Leo ran blind, one hand on the rough-hewn wall, the other clutched in Kael’s iron grip. The whisper of pursuit was not sound but a pressure, a cold draft at the nape of the neck. It was the silence of the sentinels that was the loudest thing.
 
@@ -1158,11 +1170,13 @@ He turned towards the darker arches at the chamber’s edge, away from the seari
 
 Behind them, in the silent chamber, the tear in reality pulsed, and from its luminous edges, things that were neither stone nor light began, slowly, to stir.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- Chapter 9
+Chapter 9
 
 The light did not fade. It lived. It was a living wound in the air of the chamber, a vertical seam of white fire that hummed with the high, clear tone. It did not throw heat, but a kind of pressure, a silent weight that pressed against the skin and made the teeth ache. Leo stood with Kael’s dead weight against him, staring at it. He had expected collapse, a great unmaking roar. He had not expected this quiet, terrible birth.
 
@@ -1298,11 +1312,13 @@ The mark on his chest burned, not with warmth, but with a cold, clear urgency.
 
 “Now,” Leo said, turning his back on the vault of light, “we see what the world sounds like when it’s awake.”
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- Chapter 10
+Chapter 10
 
 The head Warden was dying on his knees, a great armoured beetle helpless on the cold stone of the vault floor. His will paddled the thick air, a slow, desperate rhythm against the new light. Leo saw him from across the chamber, a dark blotch gone wrong against the singing crystal, and he walked towards him, the truth flowing ahead of him like clear water.
 
@@ -1476,11 +1492,13 @@ The stage was set. The players were not just Wardens and heretics, humans and mo
 
 The symphony was vaster than he had ever imagined. And his was not the only voice that had just begun to sing.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- Chapter 11
+Chapter 11
 
 The ship bled back into the world not with a crack of thunder, but with a sigh. A long, low exhalation of displaced air and bent light, settling into the corpse of Thorne’s laboratory like a ghost into old bones. One moment there was the sterile hum of the ship’s cabin, the next, the smell of ozone, damp concrete, and the iron-tinged scent of old blood.
 
@@ -1579,8 +1597,7 @@ It was not a blessing. It was a sentencing. An acknowledgement of a new, fragile
 Leo thought of the data crystals, their knowledge now etched into his understanding. He thought of the pure song, the template. He thought of the screaming gap between. He was a tuner. His workshop was the broken world.
 
 “Yes,” Leo said. His voice was hoarse. “It can be done.”
-
-They gave him a new workshop. Not a dusty garage, not a ruined lab. A cavernous, sterile chamber deep within the Warden’s primary citadel, a mountain fortress carved into living rock. It was a place of echoes and cold light. In its center stood a new frame, built to Thorne’s specifications but refined, reinforced with Warden materials that drank the light. It was not a ring, but an arch. A doorway.
+  - They gave him a new workshop. Not a dusty garage, not a ruined lab. A cavernous, sterile chamber deep within the Warden’s primary citadel, a mountain fortress carved into living rock. It was a place of echoes and cold light. In its center stood a new frame, built to Thorne’s specifications but refined, reinforced with Warden materials that drank the light. It was not a ring, but an arch. A doorway.
 
 For three days, Leo worked. He did not sleep. He barely ate. Rael brought him nutrient packs and stood silent vigil by the door, a dark sentinel against the Warden guards posted outside. Kael slept on a cot in the corner, his presence a solid, grounding anchor in the humming stillness.
 
@@ -1624,11 +1641,13 @@ It was a hum of summoning. A specific, urgent pulse, repeating on a band of reso
 
 It was a distress call.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- Chapter 32: The Bridge
+Chapter 32: The Bridge
 
 The portal was singing on its arch, a low, foundational hum that was felt in the teeth and the bones before it was heard by the ear. It was a sound of stability, of a path worn smooth between two points of reality. Leo stood before it, not as a supplicant or a breaker, but as its keeper. Its gardener.
 
@@ -1711,16 +1730,14 @@ He was neither here nor there. He was in the seam.
 And in that seam, he was, for the first time, entirely at home.
 
 The memory rose then, unbidden, not of the Scream or the Citadel or the shattered archive, but of something older. A story from his childhood, one he had cataloged but never truly understood until this moment. It was a shepherd’s tale, told to him by a man whose face was lost to time, but whose words now resonated with perfect clarity.
+  - _The ewe was dying on her back, a great woolly beetle helpless in the dew-drenched grass of the high field. Her legs paddled the cold air, a slow, desperate rhythm against the dawn. Finlay Munro saw her from two hundred yards off, a white blotch gone wrong against the green, and he broke into a run, the old dog, Tam, flowing ahead of him like grey smoke._
 
-The ewe was dying on her back, a great woolly beetle helpless in the dew-drenched grass of the high field. Her legs paddled the cold air, a slow, desperate rhythm against the dawn. Finlay Munro saw her from two hundred yards off, a white blotch gone wrong against the green, and he broke into a run, the old dog, Tam, flowing ahead of him like grey smoke.
+_“Ach, damn it. Damn it all.”_
 
-“Ach, damn it. Damn it all.”
+_The words were less curse than punctuation, a breath-steam in the chill. The hill rose to meet him, the ground sucking at his boots. He felt the familiar protest in his knees, the tightness across his shoulders. He reached her, his hands already moving, knowing the drill. He knelt in the wet grass, the cold seeping through his trousers. He pushed, he rolled, the weight of her immense and struggling. With a grunt and a heave, he got her over, her legs finding the earth again. She stumbled, bleated, stood shaking. He stayed on his knees beside her, a hand on her fleece, feeling the rapid, terrified drum of her heart. He wasn’t saving her from a predator or a cliff. He was saving her from herself. From a flaw in her own design that made her, in a moment of vulnerability, helpless. Tam circled, quiet, knowing the crisis was past._
 
-The words were less curse than punctuation, a breath-steam in the chill. The hill rose to meet him, the ground sucking at his boots. He felt the familiar protest in his knees, the tightness across his shoulders. He reached her, his hands already moving, knowing the drill. He knelt in the wet grass, the cold seeping through his trousers. He pushed, he rolled, the weight of her immense and struggling. With a grunt and a heave, he got her over, her legs finding the earth again. She stumbled, bleated, stood shaking. He stayed on his knees beside her, a hand on her fleece, feeling the rapid, terrified drum of her heart. He wasn’t saving her from a predator or a cliff. He was saving her from herself. From a flaw in her own design that made her, in a moment of vulnerability, helpless. Tam circled, quiet, knowing the crisis was past.
-
-Finlay stayed there, catching his breath, the dawn breaking around him in streaks of rose and gold. The ewe, now righted, began to graze, as if nothing had happened. The shepherd remained kneeling, not in prayer, but in witness. His job was not to prevent the fall. That was impossible on these hills. His job was to be there, to see the wrong shape against the green, and to put it right. To turn the beetle back into a sheep. To maintain the delicate, necessary balance of the flock on the precarious land. It was a lonely task, and a constant one. And as he rose, stiffly, to his feet, watching the ewe move safely away, he felt not triumph, but a steady, sober satisfaction. The field was whole again. The rhythm of the day could resume. He whistled for Tam, and they walked on, two sentinels moving between earth and sky, their work never truly done, but for this moment, for this ewe, complete.
-
-Leo opened his eyes. He was not kneeling in dew-drenched grass. He was standing on a balcony of stone, between a starry night and an amber dawn. But the principle was the same.
+_Finlay stayed there, catching his breath, the dawn breaking around him in streaks of rose and gold. The ewe, now righted, began to graze, as if nothing had happened. The shepherd remained kneeling, not in prayer, but in witness. His job was not to prevent the fall. That was impossible on these hills. His job was to be there, to see the wrong shape against the green, and to put it right. To turn the beetle back into a sheep. To maintain the delicate, necessary balance of the flock on the precarious land. It was a lonely task, and a constant one. And as he rose, stiffly, to his feet, watching the ewe move safely away, he felt not triumph, but a steady, sober satisfaction. The field was whole again. The rhythm of the day could resume. He whistled for Tam, and they walked on, two sentinels moving between earth and sky, their work never truly done, but for this moment, for this ewe, complete._
+  - Leo opened his eyes. He was not kneeling in dew-drenched grass. He was standing on a balcony of stone, between a starry night and an amber dawn. But the principle was the same.
 
 He had spent his life feeling like that upended ewe, paddling helplessly against the cold air of a world that didn’t make sense. He had been a white blotch gone wrong against the green. He had needed to be turned right.
 
@@ -1742,11 +1759,13 @@ Leo Munro, the Archivist who had become the Bridge, took a deep breath of the in
 
 F I N I S
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- Chapter 13
+Chapter 13
 
 The quiet did not last. It never did. It was a membrane, thin and fragile, stretched over the deep, constant hum of work. Leo felt it tear the moment he stepped from the balcony’s liminal peace back into the body of the facility. The air changed. It acquired texture, a particulate tension.
 
@@ -1765,8 +1784,7 @@ He stopped. Just his name, but it was a hook. “Mara. You’re early.”
 He felt it then, not with his ears, but in the architecture of his bones. A new vibration, a feather-light dissonance woven into the facility’s foundational hum. He had been too full of his own hard-won peace to notice. The shepherd, complacent for a moment, missing the first cough in the flock.
 
 “Show me,” he said, the words a punctuation of breath.
-
-The Threshold Chamber was not a room. It was a consequence.
+  - The Threshold Chamber was not a room. It was a consequence.
 
 It existed where the facility’s reality yielded, a deliberate, aching wound in the fabric of here that bled into there. The portal itself was not a window, nor a door. It was a congruence. A place where the laws of two worlds, after years of patient, painful calibration, agreed to a temporary and fragile truce. It looked like a vertical pool of mercury the size of a cathedral’s rose window, but a mercury that held galaxies of shimmering, internal light. It did not swirl. It pulsed. A slow, deep, tidal rhythm that was the facility’s true heartbeat.
 
@@ -1793,8 +1811,7 @@ The collective fracture. It was never one clean break. It was a network of fault
 “It’s a risk. The torsion could destabilise a transit. It could snap shut behind them.”
 
 “A calculated risk. A small team. In and out. Diagnostics only.” He turned from the portal, the cold light of it washing his face. “Get me Kael.”
-
-Kael was already in the refectory, a broad-shouldered man with a map of old scars across his knuckles and a face that had forgotten how to be young. He had been a soldier, once, on a world that had used him up and spat him out. Here, he was the leader of the facility’s scant security detail, which mostly meant being the first line of defence against the unknown that sometimes bled through the edges of the congruence. He was eating methodically, watching the room. He saw Leo coming and gave a single, slow nod.
+  - Kael was already in the refectory, a broad-shouldered man with a map of old scars across his knuckles and a face that had forgotten how to be young. He had been a soldier, once, on a world that had used him up and spat him out. Here, he was the leader of the facility’s scant security detail, which mostly meant being the first line of defence against the unknown that sometimes bled through the edges of the congruence. He was eating methodically, watching the room. He saw Leo coming and gave a single, slow nod.
 
 “Trouble in the pulse,” Leo said, sitting opposite him, no preamble.
 
@@ -2030,11 +2047,13 @@ The shepherd had righted one sheep. But out in the wider, darker field, a storm 
 
 F I N I S
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- Chapter 14
+Chapter 14
 
 The portal’s mercury sheen closed around Leo like a cold, forgiving skin, and spat him out onto the grating of the Anchor Chamber. The transition was not gentle. It was the snap of a taut cable, leaving him swaying on his feet, the clean, recycled air of the station tasting of ash and copper in his mouth. The peace of the grove was a phantom limb, already fading. Here, the light was flat, artificial, a poor copy of day. The great latticework of the Tree pulsed its steady, mindless blue, indifferent to the signal it had carried.
 
@@ -2142,11 +2161,13 @@ The hook was set. The path was chosen. The shepherd was leaving the safe field f
 
 F I N I S
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- Chapter 15
+Chapter 15
 
 The Peregrine fell towards the green world, a speck of forged steel and stubborn light descending into a vast, living throat. From the viewport, Leo watched the planet swell, a mottled emerald veined with obsidian rivers and crowned with clouds the colour of bruised flesh. It did not look like a place. It looked like a pupil, dilating to swallow them.
 
@@ -2316,11 +2337,13 @@ And inside it, something had just begun to stir.
 
 F I N I S
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- Chapter 16
+Chapter 16
 
 The silence in the Peregrine was a physical thing. It was not the absence of sound, but the presence of a listening quiet, a held breath that filled the corridors and pressed against the viewports. The ship’s systems hummed their mundane song—the thrum of the recyclers, the whisper of the air-scrubbers, the faint, electronic pulse of the navigation array. These were the sounds of a contained, mechanical world. Against them, the new silence stood out like a stain.
 
@@ -2363,8 +2386,7 @@ Kael slotted the power cell back into his weapon with a definitive click. “So 
 “A journal of the infection,” Jora said, turning now. Her eyes were dark, exhausted pools. “And then?”
 
 “And then we find someone who knows how to read it.”
-
-The Peregrine became a ship of solitudes.
+  - The Peregrine became a ship of solitudes.
 
 Leo took the portside observation blister, a small, transparent dome off the main corridor. It was a space for star-gazing, usually ignored. Now, it was his cell. He powered down the main lights, leaving only the soft glow of emergency strips along the floor. The vast, silent cathedral of space was his warden. He sat on the deck, his back against cold alloy, a data-slate on his knees.
 
@@ -2385,8 +2407,7 @@ Note: The thought “legible pattern” arrived without context. It felt like an
 He set the slate aside and closed his eyes. He sought the wall, the pot, the contained space. In his mind’s eye, it was no longer a neat, ceramic pot. It was a stone cistern, old and damp, sunk into the floor of a forgotten cellar. The green tendril was no longer a slender shoot. It had thickened. It had pressed against the inner wall of the cistern, not to break out, but to explore the shape of its confinement. Fine, hair-like rootlets had crept into the mortar between the stones. They were feeling their way.
 
 He did not try to pull them out. He simply watched. This was the observation. This was the quarantine.
-
-Kael quarantined himself in the gym. He ran the environmental simulator at maximum: a dry, high-altitude desert wind, baking heat, the scent of ozone and hot rock. He pushed his body through punishing calisthenics, his muscles burning, his breath sawing in his throat. He was scouring himself from the inside out with pure, clean pain. Sweat was a purgative. Exhaustion was a cleanser.
+  - Kael quarantined himself in the gym. He ran the environmental simulator at maximum: a dry, high-altitude desert wind, baking heat, the scent of ozone and hot rock. He pushed his body through punishing calisthenics, his muscles burning, his breath sawing in his throat. He was scouring himself from the inside out with pure, clean pain. Sweat was a purgative. Exhaustion was a cleanser.
 
 Between sets, he logged his observations on a wrist-comm, his voice a harsh gasp.
 
@@ -2397,8 +2418,7 @@ But during the third set of handstand presses, his vision blurred at the edges. 
 He collapsed, landing hard on his shoulders. He lay on the mat, chest heaving, the desert wind howling around him. The vision was gone. Only the sterile gym remained.
 
 He did not log the vision. He considered it a weakness, a flaw in his system. To record it would be to give it validity. He pushed himself up and began again.
-
-Arrin’s quarantine was digital. He sealed himself in the systems hub, a closet-sized space choked with server racks and flickering holoscreens. He built a virtual model of his own neural interface, a shimmering, blue-wire construct that rotated in the air before him. He ran streams of diagnostic code through it, like clear water through a tangled net, looking for sediment, for clinging bits of alien code.
+  - Arrin’s quarantine was digital. He sealed himself in the systems hub, a closet-sized space choked with server racks and flickering holoscreens. He built a virtual model of his own neural interface, a shimmering, blue-wire construct that rotated in the air before him. He ran streams of diagnostic code through it, like clear water through a tangled net, looking for sediment, for clinging bits of alien code.
 
 He found nothing. The structure was pristine.
 
@@ -2415,8 +2435,7 @@ He paused, a cold sweat beading on his upper lip. A new thought emerged, calm an
 What if understanding it is the merger?
 
 He deleted the entire log entry. Then he wiped the sector of memory where it had been temporarily stored. He sat in the humming dark, his heart a trapped bird against his ribs. The silence in the hub was different. It had a digital quality, a vast, empty memory waiting to be filled.
-
-Jora did not quarantine herself. She stayed in the cockpit, the captain’s chair her post. Her observation was the ship itself. She monitored their course, their life-support, the silent, blinking icons that represented her crew in their separate holds. She was the shepherd of this scattered, infected flock.
+  - Jora did not quarantine herself. She stayed in the cockpit, the captain’s chair her post. Her observation was the ship itself. She monitored their course, their life-support, the silent, blinking icons that represented her crew in their separate holds. She was the shepherd of this scattered, infected flock.
 
 Her log was vocal, quiet murmurs to the ship’s recorder.
 
@@ -2429,8 +2448,7 @@ She looked at the navigation screen, at the predetermined course line stretching
 She felt it too. Not a tendril, not a root. A harmony. As she watched the rhythmic pulse of the engine output, the wave-forms of the comms silence, the gentle sine curve of the ship’s rotation on its axis, she saw a deeper pattern beneath. The hum of the Peregrine was a single, sustained note in a cosmic chord. The green world had been another note, deafeningly loud, overwhelmingly complex. The fracture was not an invasion; it was the sudden, shocking ability to hear the music. And once heard, it could not be unheard. It tuned you. It changed the resonance of your bones.
 
 She did not fear the green. She feared the longing for it. The part of her that listened to the ship’s hum and wished, terribly, for the richer, wilder, more terrible song of the planet.
-
-The first bridge was built by silence.
+  - The first bridge was built by silence.
 
 At +12 hours, Leo left the observation blister. He moved through the dim corridors, a ghost in his own ship. He went to the galley for water. Kael was there, leaning against the counter, drinking a protein slurry. His body was a sculpture of tension.
 
@@ -2461,8 +2479,7 @@ He walked to the viewport in the galley wall. The stars were still there, cold a
 “And if closing them doesn’t work?” Kael asked, his voice a low rumble.
 
 “Then we learn to see with them,” Jora said. “Without losing ourselves to the view.”
-
-The second bridge was built by need.
+  - The second bridge was built by need.
 
 At +18 hours, the shared vision came.
 
@@ -2495,8 +2512,7 @@ But it had been shared. The fracture, the link, had used Leo’s most private me
 Leo stood, his legs unsteady. He walked to the comm panel on the wall. He opened a channel to the whole ship. His voice, when it came, was raw.
 
 “We can’t do this alone anymore. The quarantine is broken. It just showed us that. We meet. Now. In the mess. We share the logs. All of them.”
-
-They gathered around the small, metal table. Data-slates were placed in the center, a stack of encrypted truths. One by one, they released the locks. They shared the unshareable.
+  - They gathered around the small, metal table. Data-slates were placed in the center, a stack of encrypted truths. One by one, they released the locks. They shared the unshareable.
 
 Kael heard about Leo’s cistern, the exploring root. He did not scoff. He nodded. “A containment and reconnaissance operation. Inside your head.”
 
@@ -2541,8 +2557,7 @@ Leo reached out and placed his hand, palm down, on the pile of data-slates. Afte
 A circuit closed. Not through the neural links. Through skin, through will, through shared, terrifying purpose.
 
 “Alright,” Leo whispered, his voice the only sound in the humming ship. “Let’s look.”
-
-They returned to the cockpit, not as isolated crewmates, but as a single organism with four points of awareness. Jora took the pilot’s seat. Leo stood behind her right shoulder. Kael behind her left. Arrin hovered at the systems station.
+  - They returned to the cockpit, not as isolated crewmates, but as a single organism with four points of awareness. Jora took the pilot’s seat. Leo stood behind her right shoulder. Kael behind her left. Arrin hovered at the systems station.
 
 “Where?” Jora asked, her hands on the controls.
 
@@ -2588,11 +2603,13 @@ And it was here for what they carried.
 
 F I N I S
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- Chapter 17
+Chapter 17
 
 The crystal ship hung in the void, a silent, jagged accusation. It did not move, did not hail them. It simply was, a shard of the green world broken off and set adrift among the stars. Its fissures glowed with that same low, vegetative light, a cold emerald fire that pulsed once, slowly, like a distant heartbeat. The Peregrine’s own running lights painted its edges in sterile white, making it seem both more real and more impossible.
 
@@ -2738,11 +2755,13 @@ They were carrying the virus of the collective inside their own, separate minds.
 
 F I N I S
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- Chapter 18
+Chapter 18
 
 The silence was a new kind of machine. It had no moving parts, but it worked on them all the same. It was a pressure, a cold, dense fluid filling the cockpit, the corridors, the marrow of their bones. The ship was a carcass, cooling in the vacuum. The only sounds were the clicks of manual toggles, the rasp of breath in recycled air that was beginning to taste of metal and fear, and the occasional, stifled sob from Jora that she bit off as if it were a betrayal.
 
@@ -2904,11 +2923,13 @@ They were choosing their tomb. And they were bringing the virus with them.
 
 F I N I S
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- Chapter 19
+Chapter 19
 
 The silence was not an absence. It was a presence. It entered the Weeping Heart not as a thief, but as a king, settling into the bones of the ship, into the spaces between breaths. The last of the engines died with a sigh that seemed to come from the metal itself. The vibration that had been the constant hum of their lives for years ceased, and the stillness that replaced it was louder. It was the stillness of a held breath at the edge of a cliff. The viewport was no longer a window. It was a wall of perfect, depthless black. The Shroud did not swirl. It did not churn. It simply was, an absolute negation that had finally caught them in its cold, patient hand.
 
@@ -3140,11 +3161,13 @@ Now they had to learn to live with what they had exhumed.
 
 F I N I S
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- Chapter 20
+Chapter 20
 
 The beacon was a cold, white eye in the void, a sterile star that promised nothing but procedure. It hung against the sprawl of the Orion Gateway, a clot of orbital traffic and corporate spires glittering like broken glass in the distant sun’s light. The Weeping Heart drifted towards it, a speck of tarnished silver and scarred hull-plate, a creature of the deeps surfacing into painfully bright, shallow water.
 
@@ -3286,11 +3309,13 @@ But the world, now, was listening back.
 
 F I N I S
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- Chapter 21
+Chapter 21
 
 The Gateway was a cage of light. It held them in a berth on the Orion-7 beacon’s underbelly, a metal cyst sutured to the great station’s flank. The view from the Weeping Heart’s starboard viewport was not of stars, but of the beacon’s scarred hull-plates, conduits thick as ancient tree roots, and the constant, silent traffic of maintenance drones. They were nested. They were safe. The sensation was a wool blanket soaked in cold water: a smothering, clammy weight.
 
@@ -3464,11 +3489,13 @@ The Weeping Heart was repaired. Her secrets were no longer safe. They were alive
 
 F I N I S
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- Chapter 22
+Chapter 22
 
 The silence of the Shroud was not an absence. It was a substance. It pressed against the Weeping Heart’s hull like congealed oil, a thick, resonant quiet that swallowed the hum of her drives and the beat of her systems. Leo had killed everything but the barest trickle of life-support and navigation, a ghost-current in a dead sea. The ship drifted now, not flying but falling, a slow, deliberate tumble into the graveyard’s heart.
 
@@ -3674,11 +3701,13 @@ The Weeping Heart was no longer a ghost. She was a flare in the darkness. And th
 
 F I N I S
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- Chapter 23
+Chapter 23
 
 The growl was not a sound. It was a vibration in the bones of the ship, a deep-throated tremor that travelled up through the deck-plates and into the soles of Finlay’s boots. It was the hill under a coming storm. It was the first, distant rumble of the avalanche that had been waiting for them all along. The passive scanner screen, a placid sheet of black and star-dust, was now scarred by a single, pulsing red icon. It bloomed like a fresh wound, its targeting pulse a rhythmic, malevolent heartbeat.
 
@@ -3910,11 +3939,13 @@ With a groan that came from the depths of the earth, Finlay Munro got to his fee
 
 F I N I S
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- Chapter 24
+Chapter 24
 
 The crawlspace was a dark artery, a tight, curving tube of cold alloy that carried the ship’s vital hum along its length. Finlay moved through it on hands and knees, a slow, painful crawl, the rhythm of his breath and the scrape of his body the only sounds. Leo followed, his breathing shallow and controlled. Tam came last, a silent, warm pressure at their heels. The air was thick with the smell of ozone and old grease.
 
@@ -3991,8 +4022,7 @@ The sergeant’s rifle lowered, a centimeter. Then another. He made a sharp, cho
 The tension bled from the bay, leaving a profound, ringing silence. Finlay let out a breath he didn’t know he’d been holding. Mila sagged against the frame, a ghost of a smile on her lips.
 
 They had gathered.
-
-The next hours were a strange, suspended limbo. The marines, their purpose fractured, became efficient custodians. They set up a sterile perimeter around the lab-pod, their plasma torches now tools for sealing, not burning. The wounded were tended. The dead were gathered.
+  - The next hours were a strange, suspended limbo. The marines, their purpose fractured, became efficient custodians. They set up a sterile perimeter around the lab-pod, their plasma torches now tools for sealing, not burning. The wounded were tended. The dead were gathered.
 
 Finlay sat on a crate in the bay, his back against the cold wall, watching. Tam lay at his feet, head on paws, eyes following every movement. The great, simple truth of the dog was a comfort. There was work being done. That was enough.
 
@@ -4017,8 +4047,7 @@ Finlay looked at the shard, glowing softly in its cage. A great woolly beetle on
 Finlay looked around the bay. At Mila, her head bent close to Leo’s. At Tam, loyal and waiting. He thought of the others, scattered on the colony below, or sleeping in the cold rooms of the Heart. He thought of the high field, now an image on a screen, a memory in a machine.
 
 “We’ll gather,” he said.
-
-The science vessel arrived two days later. It was sleek and white, a dove next to the Heart’s scarred crow. With it came a flurry of shuttles, officials in crisp uniforms, scientists in environment suits, and a quiet, sharp-eyed woman who introduced herself as Senator Elara Voss.
+  - The science vessel arrived two days later. It was sleek and white, a dove next to the Heart’s scarred crow. With it came a flurry of shuttles, officials in crisp uniforms, scientists in environment suits, and a quiet, sharp-eyed woman who introduced herself as Senator Elara Voss.
 
 She toured the Weeping Heart, her expression unreadable. She stood for a long time before the core’s main interface, now displaying the slow, swirling dance of reconciled data—the Venture’s logs, the Blight’s fragmented memories, the Collective’s own records. It was a tapestry of ruin and survival.
 
@@ -4073,8 +4102,7 @@ He cycled the lock and walked back to the mess. They were all looking at him, th
 He stopped in the doorway. He did not smile. His face was a landscape of stone and wind.
 
 “Right,” he said, his voice filling the quiet. “There’s work to be done.”
-
-The Senator’s ship departed, taking the Blight sample and the weight of the galaxy’s attention with it. A skeleton Corps crew remained, a guard detail that was also a peace offering. The Weeping Heart was theirs. For now.
+  - The Senator’s ship departed, taking the Blight sample and the weight of the galaxy’s attention with it. A skeleton Corps crew remained, a guard detail that was also a peace offering. The Weeping Heart was theirs. For now.
 
 The first thing they did was shut down the non-essential systems. The great engines fell silent for the last time. The ship became a habitat, anchored in high orbit around the colony. A strange, floating steading.
 
@@ -4101,8 +4129,7 @@ Finlay grunted, lowering himself to sit beside the boy. Tam lay down with a sigh
 Finlay looked at the dormant screens, the soft, pulsing light of the core’s housing. A great, wounded mind, seeking a new purpose. He thought of the high field, of the endless, repeating cycles of birth and death and growth. A story that never truly ended, only changed its shape.
 
 “Aye,” he said, his voice rough. “It can.”
-
-Weeks turned into months. The garden grew, a splash of vibrant green in the grey steel. The Collective settled into a new rhythm. Children’s laughter, once a ghost sound in the corridors, became real. They began to trade with the colony below—food for spare parts, data for seeds. A cautious, tentative connection.
+  - Weeks turned into months. The garden grew, a splash of vibrant green in the grey steel. The Collective settled into a new rhythm. Children’s laughter, once a ghost sound in the corridors, became real. They began to trade with the colony below—food for spare parts, data for seeds. A cautious, tentative connection.
 
 Finlay stood at the viewport in the garden bay, looking down at the world. He had not set foot on it. He did not need to. His field was here. His flock was here.
 
