@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The ewe was dying on her back, a great woolly beetle helpless in the dew-drenched grass of the high field. Her legs paddled the cold air, a slow, desperate rhythm against the dawn. Finlay Munro saw her from two hundred yards off, a white blotch gone wrong against the green, and he broke into a run, the old dog, Tam, flowing ahead of him like grey smoke.
@@ -130,6 +132,8 @@ He spat on the ground, a brief, sharp punctuation. Then he went back to mucking 
 
 ---
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The stone of the kirkyard wall was sun-warmed against Finlay’s back. It was Sunday afternoon, the Sabbath work of morning chores done, the secular quiet of the day settling in. He sat with his eyes closed, face turned to the light, listening to the gossip of starlings in the yew tree and the distant, rhythmic *thock* of axe on wood from behind the house. Calum, his younger brother, was splitting logs. The sound was a heartbeat.
@@ -247,6 +251,8 @@ The resistance, Hector had called it. But resistance required a target, a plan. 
 He closed his eyes. In the theatre of his mind, he saw the grey car, moving silently from farm to croft to ruin, a spider weaving a web. And he saw himself, a fly in the centre, feeling the vibrations, knowing the web was there, but unable to see its full, glistening, intricate shape.
 
 ---
+
+# Chapter 3
 
 ## **Chapter 3**
 
